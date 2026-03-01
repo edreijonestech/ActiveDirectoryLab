@@ -24,7 +24,7 @@ Project Blueprint:  <br/>
 <br />
 Created Virtual Machines:  <br/>
 -One for Domain Controller and one for client
-<img src="[https://i.imgur.com/zKBWfvt.png](https://imgur.com/a/C1EU1kV)" height="80%" width="80%" alt="Active Directory Steps"/>
+<img src="https://i.imgur.com/zKBWfvt.png height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <img src="https://i.imgur.com/QyOx60u.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
