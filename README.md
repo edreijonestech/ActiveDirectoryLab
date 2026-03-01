@@ -73,7 +73,7 @@ Run the CREATE_USERS Powershell script to create client users:  <br/>
 - "New-ADOrganizationalUnit" creates a new organizational unit named "Users". <br/>
 - "Foreach" loop runs for each individual user in the text file and creates a username using the first initial of the user's first name and their entire last name. <br/>
 - "New-AdUser" creates a new user in Active Directory and assigns them the generic "Password1" and some credentials. <br/>
-<img src="https://i.imgur.com/8KrHwfh.png" height="80%" width="80%" alt="Active Directory Steps"/>
+<img src="https://i.imgur.com/DcDeIhn.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <img src="https://i.imgur.com/qxK5VMq.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
