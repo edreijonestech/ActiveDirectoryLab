@@ -59,7 +59,7 @@ Use Domain Controller as DNS Server:  <br/>
 <br />
 Text file with several randomly generated names:  <br/>
 - A user will be created for each one of the names on this list. <br/>
-<img src="https://i.imgur.com/adSPtCA.png" height="80%" width="80%" alt="Active Directory Steps"/>
+<img src="https://i.imgur.com/p903z3U.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
 Enable execution of all scripts:  <br/>
