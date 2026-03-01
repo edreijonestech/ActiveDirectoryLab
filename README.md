@@ -50,11 +50,11 @@ Configure Remote Access and install NAT on internet interface:  <br/>
 Set up DHCP Server on the Domain Controller:  <br/>
 - Allows Windows 10 Clients to get an IP address that will let them browse the internet even though they are on the private internal network. <br/>
 - Add scope range to ensure that clients are assigned IP addresses within the specified range.
-<img src="https://i.imgur.com/ZknBGwj.png" height="80%" width="80%" alt="Active Directory Steps"/>
+<img src="https://i.imgur.com/mxLBY10.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
 Use Domain Controller as DNS Server:  <br/>
-<img src="https://i.imgur.com/cC0JxHe.png" height="80%" width="80%" alt="Active Directory Steps"/>
+<img src="https://i.imgur.com/SSJBqpT.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
 Text file with several randomly generated names:  <br/>
