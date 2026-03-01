@@ -30,7 +30,7 @@ Created Virtual Machines:  <br/>
 <br />
 <br />
 Install Active Directory Domain Services:  <br/>
-<img src="https://i.imgur.com/kiO5gv9.png?2" height="80%" width="80%" alt="Active Directory Steps"/>
+<img src="https://i.imgur.com/tiHwSI5.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
 Configure Domain Controller:  <br/>
