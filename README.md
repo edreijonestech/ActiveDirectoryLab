@@ -91,7 +91,7 @@ Observe that the client machine is joined with the domain:  <br/>
 <br />
 <br />
 Use any one of the several logins that were created to access the Windows 10 machine:  <br/>
-<img src="https://i.imgur.com/mpZyyMq.png" height="80%" width="80%" alt="Active Directory Steps"/>
+<img src="https://i.imgur.com/RgWw34r.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 
 
