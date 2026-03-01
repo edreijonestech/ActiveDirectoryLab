@@ -26,7 +26,7 @@ Created Virtual Machines:  <br/>
 -One for Domain Controller and one for client
 <img src="https://i.imgur.com/cqb74j7.png height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
-<img src="https://i.imgur.com/QyOx60u.png" height="80%" width="80%" alt="Active Directory Steps"/>
+<img src=https://i.imgur.com/71CDXMu.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
 Install Active Directory Domain Services:  <br/>
