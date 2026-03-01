@@ -83,7 +83,7 @@ Observe users being created:  <br/>
 <br />
 <br />
 Ensure the client machine can ping to the internet:  <br/>
-<img src="https://i.imgur.com/ToOfcNE.png" height="80%" width="80%" alt="Active Directory Steps"/>
+<img src="https://i.imgur.com/ToOfcNE.png(https://i.imgur.com/tiTjOjB.png)" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
 Observe that the client machine is joined with the domain:  <br/>
