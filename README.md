@@ -23,7 +23,8 @@ Project Blueprint:  <br/>
 <br />
 <br />
 Created Virtual Machines:  <br/>
--One for Domain Controller and one for client
+-One VM was configured as a Domain Controller to manage permissions and access, while another VM acted as a client to receive and test those permissions 
+ 
 <img width="80%" height="80%" alt="MainDomain" src="https://github.com/user-attachments/assets/9d1e17bd-cbbb-4ac4-ba4c-b7f5adc4a8f1" />
 
  
@@ -32,12 +33,12 @@ Created Virtual Machines:  <br/>
 
 <br />
 <br />
-Install Active Directory Domain Services:  <br/>
+Install Active Directory Domain Services: It lets the VM manage users, computers, and permissions on a network. <br/>
 <img width="80%" height="80%" alt="Active Directory" src="https://github.com/user-attachments/assets/8a4e42d3-c083-4e22-be23-d08236c66cb6" />
 
 <br />
 <br />
-Configure Domain Controller:  <br/>
+Configure Domain Controller: It turns a server into the “brain” of the network that controls logins, access, and security. <br/>
 - To establish admin access
 <img src="https://i.imgur.com/2hLveDw.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
@@ -47,7 +48,7 @@ Create an Organizational Unit to house our personally created admin account:  <b
 <img src="https://i.imgur.com/SSbLS2t.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
-Configure Remote Access and install NAT on internet interface:  <br/>
+Configuring Remote Access and installing NAT on the internet interface allows your server to connect internal machines to the internet and manage that traffic.:  <br/>
 <img src="https://i.imgur.com/QGblLb6.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
@@ -57,7 +58,7 @@ Set up DHCP Server on the Domain Controller:  <br/>
 <img src="https://i.imgur.com/mxLBY10.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
 <br />
-Use Domain Controller as DNS Server:  <br/>
+Using a Domain Controller as a DNS server allows your network to find and connect to devices and services using names instead of IP addresses—and is required for Active Directory to work properly.  <br/>
 <img width="80%" height="80%" alt="DNS" src="https://github.com/user-attachments/assets/e9e79bcd-cefb-496c-93e3-fb453ecc2787" />
 
 <br />
