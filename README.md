@@ -24,13 +24,17 @@ Project Blueprint:  <br/>
 <br />
 Created Virtual Machines:  <br/>
 -One for Domain Controller and one for client
-<img src="https://i.imgur.com/cqb74j7.png height="80%" width="80%" alt="Active Directory Steps"/>
+<img width="80%" height="80%" alt="MainDomain" src="https://github.com/user-attachments/assets/9d1e17bd-cbbb-4ac4-ba4c-b7f5adc4a8f1" />
+
+ 
+ <img width="80%" height="80%" alt="Client" src="https://github.com/user-attachments/assets/275ee541-91cc-4a6f-b621-f7fdc58b0390" />
 <br />
-<img src=https://i.imgur.com/71CDXMu.png" height="80%" width="80%" alt="Active Directory Steps"/>
+
 <br />
 <br />
 Install Active Directory Domain Services:  <br/>
-<img src="https://i.imgur.com/tiHwSI5.png" height="80%" width="80%" alt="Active Directory Steps"/>
+<img width="80%" height="80%" alt="Active Directory" src="https://github.com/user-attachments/assets/8a4e42d3-c083-4e22-be23-d08236c66cb6" />
+
 <br />
 <br />
 Configure Domain Controller:  <br/>
@@ -54,12 +58,14 @@ Set up DHCP Server on the Domain Controller:  <br/>
 <br />
 <br />
 Use Domain Controller as DNS Server:  <br/>
-<img src="https://i.imgur.com/SSJBqpT.png" height="80%" width="80%" alt="Active Directory Steps"/>
+<img width="80%" height="80%" alt="DNS" src="https://github.com/user-attachments/assets/e9e79bcd-cefb-496c-93e3-fb453ecc2787" />
+
 <br />
 <br />
 Text file with several randomly generated names:  <br/>
 - A user will be created for each one of the names on this list. <br/>
-<img src="https://i.imgur.com/p903z3U.png" height="80%" width="80%" alt="Active Directory Steps"/>
+<img width="80%" height="80%" alt="Text Of Names" src="https://github.com/user-attachments/assets/02b8bf26-7c64-4f59-811f-d8bd7fa84dc7" />
+
 <br />
 <br />
 Enable execution of all scripts:  <br/>
@@ -73,7 +79,8 @@ Run the CREATE_USERS Powershell script to create client users:  <br/>
 - "New-ADOrganizationalUnit" creates a new organizational unit named "Users". <br/>
 - "Foreach" loop runs for each individual user in the text file and creates a username using the first initial of the user's first name and their entire last name. <br/>
 - "New-AdUser" creates a new user in Active Directory and assigns them the generic "Password1" and some credentials. <br/>
-<img src="https://i.imgur.com/DcDeIhn.png" height="80%" width="80%" alt="Active Directory Steps"/>
+<img width="80%" height="80%" alt="new ad user" src="https://github.com/user-attachments/assets/995312fe-7e98-497b-8cdc-ade79e9664d1" />
+
 <br />
 <img src="https://i.imgur.com/qxK5VMq.png" height="80%" width="80%" alt="Active Directory Steps"/>
 <br />
@@ -83,7 +90,8 @@ Observe users being created:  <br/>
 <br />
 <br />
 Ensure the client machine can ping to the internet:  <br/>
-<img src="https://i.imgur.com/tiTjOjB.png" height="80%" width="80%" alt="Active Directory Steps"/>
+<img width="1025" height="772" alt="Pingback" src="https://github.com/user-attachments/assets/3b483327-1f5f-49ef-acb1-d7d641c96ffc" />
+
 <br />
 <br />
 Observe that the client machine is joined with the domain:  <br/>
@@ -91,7 +99,8 @@ Observe that the client machine is joined with the domain:  <br/>
 <br />
 <br />
 Use any one of the several logins that were created to access the Windows 10 machine:  <br/>
-<img src="https://i.imgur.com/RgWw34r.png" height="80%" width="80%" alt="Active Directory Steps"/>
+<img width="1028" height="765" alt="OtherUser" src="https://github.com/user-attachments/assets/1d708180-c578-40cf-9a50-d826fcb94869" />
+
 <br />
 
 
